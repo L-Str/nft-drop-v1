@@ -1,0 +1,20 @@
+{
+  "name": "Conquistador_Hat_Merlin",
+  "symbol": "HONNFT",
+  "description": "Test Collection - This is the number 1/4.",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HksGwynxBHRrCGWdgthv5fkh4Feh13cfuMxQ5KhTK42L",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fabulous_Merlin",
+  "symbol": "HONNFT",
+  "description": "Test Collection - This is the number 3/4.",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HksGwynxBHRrCGWdgthv5fkh4Feh13cfuMxQ5KhTK42L",
+        "share": 100
+      }
+    ]
+  }
+}
