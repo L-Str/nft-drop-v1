@@ -73,8 +73,10 @@ const App = () => {
           <p className="header">🍭 Candy Drop</p>
           <p className="sub-text">NFT drop machine with fair mint</p>
           {!walletAddress && renderNotConnectedContainer()}
-          {!isMobileDevice() && "Connected on browser..."}
-          {isMobileDevice() && "Connected on mobile..."}
+          <p>
+            {!isMobileDevice() && "Connected on browser..."}
+            {isMobileDevice() && "Connected on mobile..."}
+          </p>
         </div>
         {/* Check for walletAddress and then pass in walletAddress */}
         {walletAddress && <CandyMachine walletAddress={window.solana} />}
