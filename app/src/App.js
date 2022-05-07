@@ -9,6 +9,11 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
 
+  // TEST
+  function isMobileDevice() {
+    return 'ontouchstart' in window || 'onmsgesturechange' in window;
+  }
+
   // State
   const [walletAddress, setWalletAddress] = useState(null);
 
@@ -68,6 +73,8 @@ const App = () => {
           <p className="header">🍭 Candy Drop</p>
           <p className="sub-text">NFT drop machine with fair mint</p>
           {!walletAddress && renderNotConnectedContainer()}
+          {!isMobileDevice() && "Connected on browser..."}
+          {isMobileDevice() && "Connected on mobile..."}
         </div>
         {/* Check for walletAddress and then pass in walletAddress */}
         {walletAddress && <CandyMachine walletAddress={window.solana} />}
