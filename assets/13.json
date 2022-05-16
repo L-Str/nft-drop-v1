@@ -1,12 +1,12 @@
 {
-  "name": "Horny_Jedi",
+  "name": "Lost_Ape",
   "symbol": "COSMICBOAT",
-  "description": "TEST 4/20",
-  "image": "3.png",
+  "description": "TEST 14/20",
+  "image": "13png",
   "properties": {
     "files": [
       {
-        "uri": "3.png",
+        "uri": "13.png",
         "type": "image/png"
       }
     ],

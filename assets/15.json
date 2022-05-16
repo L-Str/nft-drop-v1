@@ -1,12 +1,12 @@
 {
-  "name": "Horny_Jedi",
+  "name": "Monkey_Beat",
   "symbol": "COSMICBOAT",
-  "description": "TEST 4/20",
-  "image": "3.png",
+  "description": "TEST 16/20",
+  "image": "15.png",
   "properties": {
     "files": [
       {
-        "uri": "3.png",
+        "uri": "15.png",
         "type": "image/png"
       }
     ],

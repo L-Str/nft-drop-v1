@@ -1,1 +1,130 @@
-{"program":{"uuid":"6KoEHS","candyMachine":"6KoEHSHdRv6pfkfJr9WfY9Jnf2zihH88th1rnzZUJnLu"},"items":{"0":{"link":"https://arweave.net/kBTbLpLp-on9PX6wbuM5KxWxOMjg2DUC87WNl0sX9Ck","name":"Conquistador_Hat_Merlin","onChain":true,"verifyRun":true},"1":{"link":"https://arweave.net/bctHhH7x0osFjDDZah52H4O3aQ9HQ_D9URbVp8OWAXk","name":"Creepy_Merlin","onChain":true,"verifyRun":true},"2":{"link":"https://arweave.net/B-e-09T24q0NsuVkXnr8aWCjg-QCerndcw52AX4lmiM","name":"Fabulous_Merlin","onChain":true,"verifyRun":true},"3":{"link":"https://arweave.net/yVhd36bzW9iNFRBnAT917eDKelBd-XjrCIanh4NlS1Q","name":"Hangover_Merlin","onChain":true,"verifyRun":true}},"env":"devnet","cacheName":"temp","startDate":"62731380"}
+{
+  "program": {
+    "uuid": "3RW6Dh",
+    "candyMachine": "3RW6DhMk5jPx7i8HNGSYjH5irGPf5kYvQchQSepyBjFo"
+  },
+  "items": {
+    "0": {
+      "link": "https://ipfs.io/ipfs/QmfC6xSN59uNe6uZvChHuCG2hAsSAJQCfoXSCV8iahUZZB",
+      "name": "Espacio_Boy",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://ipfs.io/ipfs/QmetyKZ7LiJnzYNXkQ6L1RBYEUuiCoc6WHZMQii4y3XdAG",
+      "name": "Lord_of_Zbeul",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://ipfs.io/ipfs/QmS1tcxwUeGt2dEQEtf7yPWVr2DDChqFPMv2aCov2vSd71",
+      "name": "DJ_Pluton",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "3": {
+      "link": "https://ipfs.io/ipfs/QmRpiQLQ7BKYvTGQ2YmaQrDKPtRTwB8acrmhcvZQpDuY28",
+      "name": "Horny_Jedi",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "4": {
+      "link": "https://ipfs.io/ipfs/QmRyzL3WCqqdDWQ6FtKRx6vkKwJCk7kK3hA8gXFcAVvwRY",
+      "name": "Moody_Queen",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "5": {
+      "link": "https://ipfs.io/ipfs/Qmckp6spxAHvkJUjsMr2MvADT4i6z8SGSznrSqiNpAjzGM",
+      "name": "Crazy_Yoda",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "6": {
+      "link": "https://ipfs.io/ipfs/QmTrBatJ4bkUzZ4Ndtr16EZ13FqSwZnFZ22Mi1inrsynhn",
+      "name": "Deep_Fish",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "7": {
+      "link": "https://ipfs.io/ipfs/QmdJdZAHoaWzmMqxbd3w4QYEN2isKF26NatfyZEG9J15GM",
+      "name": "Dusty_Kid",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "8": {
+      "link": "https://ipfs.io/ipfs/Qme4MymXSBhemP68aEySfPaNcPKWv7UVi8sm85uVxuDSGP",
+      "name": "Tug_Turtle",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "9": {
+      "link": "https://ipfs.io/ipfs/QmSG2Gr4kV47simK2qrmHAxjPweD35j7txmFpXKRHzaBKi",
+      "name": "Kinky_Princess",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "10": {
+      "link": "https://ipfs.io/ipfs/QmV39GUuZuXFKG51JQ42YpNonxzAYUYp3jdKtNtKXZyjKH",
+      "name": "Gravity_Girl",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "11": {
+      "link": "https://ipfs.io/ipfs/QmNbjUqR4hQCzcWkbXSHJo2iRaiik7eTGrWgVZ15k53L6n",
+      "name": "Luny_Tunes",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "12": {
+      "link": "https://ipfs.io/ipfs/QmRNwLFQu8nA1k5n9LPBTZaSHvvLsyttg2HGXTgp6Ki4Vp",
+      "name": "Wavy_King",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "13": {
+      "link": "https://ipfs.io/ipfs/Qmds36WhuDLYoWpj7o5vhQbtsujQt2QLq5tStSAu4oxLLU",
+      "name": "Lost_Ape",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "14": {
+      "link": "https://ipfs.io/ipfs/Qmbdzfb3xUjpr8VL6oZ9pqmYgE1komEbyY9wk4gxMjY7fF",
+      "name": "Mooney_Popeye",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "15": {
+      "link": "https://ipfs.io/ipfs/QmeGXKkXxtAKnT3DGRsk24twZRtuzwNwsBJQw3cuPXv1Ya",
+      "name": "Monkey_Beat",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "16": {
+      "link": "https://ipfs.io/ipfs/QmcHDDkhCq81D9ksmtuHvJuFAJWNfyoaixTsV9JnHZ2E6A",
+      "name": "Solid_Bird",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "17": {
+      "link": "https://ipfs.io/ipfs/QmYveTxR2E1Qf1amWsSohLfA5kkLNp7Uft9v9NDUWh91h2",
+      "name": "Loud_Baster",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "18": {
+      "link": "https://ipfs.io/ipfs/QmaoBFBkVQftWwFFf9twgXaDscGHmeYGdYtuV99SBCgQhi",
+      "name": "Nasty_Bas",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "19": {
+      "link": "https://ipfs.io/ipfs/QmfHhNAmfNz97pgUhdWv4szaZC3h53Taxr3vyg5E6Vz7SR",
+      "name": "Star_Cruiser",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

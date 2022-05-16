@@ -1,7 +1,7 @@
 {
-  "name": "Creepy_Merlin",
-  "symbol": "HONNFT",
-  "description": "Test Collection - This is the number 2/4.",
+  "name": "Lord_of_Zbeul",
+  "symbol": "COSMICBOAT",
+  "description": "TEST 2/20",
   "image": "1.png",
   "properties": {
     "files": [
@@ -12,7 +12,7 @@
     ],
     "creators": [
       {
-        "address": "HksGwynxBHRrCGWdgthv5fkh4Feh13cfuMxQ5KhTK42L",
+        "address": "12EgNAK5UuBdVowt4SBZqryi1xRPRqKcXvaLZsGWTczp",
         "share": 100
       }
     ]

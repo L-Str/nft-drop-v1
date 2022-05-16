@@ -70,12 +70,12 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header">🍭 Candy Drop</p>
-          <p className="sub-text">NFT drop machine with fair mint</p>
+          <p className="header">Cosmic Boat Party</p>
+          <p className="sub-text">Welcome in the NFT world !</p>
           {!walletAddress && renderNotConnectedContainer()}
           <p>
             {!isMobileDevice() && "Connected on browser..."}
-            {isMobileDevice() && "Connected on mobile..."}
+            {isMobileDevice() && "Connected on mobile, please use your browser..."}
           </p>
         </div>
         {/* Check for walletAddress and then pass in walletAddress */}

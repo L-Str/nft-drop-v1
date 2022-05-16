@@ -1,12 +1,12 @@
 {
-  "name": "Horny_Jedi",
+  "name": "Tug_Turtle",
   "symbol": "COSMICBOAT",
-  "description": "TEST 4/20",
-  "image": "3.png",
+  "description": "TEST 9/20",
+  "image": "8.png",
   "properties": {
     "files": [
       {
-        "uri": "3.png",
+        "uri": "8.png",
         "type": "image/png"
       }
     ],
