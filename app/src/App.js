@@ -98,7 +98,7 @@ const App = () => {
           </p>
 
           <p className="body-text">
-            There are only 20 NFTs, so take 5 minutes to see below how to get one!
+            There are only 20 NFTs in this collection, so take 5 minutes to see below how to get one!
           </p>
 
           {!walletAddress && renderNotConnectedContainer()}
