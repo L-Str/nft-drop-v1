@@ -1,8 +1,22 @@
 {
   "name": "Loud_Baster",
-  "symbol": "COSMICBOAT",
-  "description": "TEST 18/20.",
+  "symbol": "COSMICKIDS",
+  "description": "Cosmic Kids 18/20.",
   "image": "17.png",
+  "attributes": [
+    {
+      "trait_type": "Gusku - Rolling Under The Wave",
+      "value": "https://ipfs.io/ipfs/QmeBv4TC7tZqA5LmCehAzzLStPPMiBpU2KtSYtq3PyE9zB"
+    },
+    {
+      "trait_type": "share",
+      "value": 0.05
+    }
+  ],
+  "collection": {
+    "name": "Selas Studio x Cosmic Boat Party",
+    "family": "Cosmic Kids"
+  },
   "properties": {
     "files": [
       {

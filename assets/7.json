@@ -1,8 +1,22 @@
 {
   "name": "Dusty_Kid",
-  "symbol": "COSMICBOAT",
-  "description": "TEST 8/20",
+  "symbol": "COSMICKIDS",
+  "description": "Cosmic Kids 8/20",
   "image": "7.png",
+  "attributes": [
+    {
+      "trait_type": "Gusku - Rolling Under The Wave",
+      "value": "https://ipfs.io/ipfs/QmeBv4TC7tZqA5LmCehAzzLStPPMiBpU2KtSYtq3PyE9zB"
+    },
+    {
+      "trait_type": "share",
+      "value": 0.05
+    }
+  ],
+  "collection": {
+    "name": "Selas Studio x Cosmic Boat Party",
+    "family": "Cosmic Kids"
+  },
   "properties": {
     "files": [
       {

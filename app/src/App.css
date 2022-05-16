@@ -44,7 +44,6 @@
   font-style: italic;
 }
 
-
 .gradient-text {
   background: -webkit-linear-gradient(left, #60c657 30%, #35aee2 60%);
   background-clip: text;
@@ -92,10 +91,10 @@
 }
 
 .banner-cosmic-boat {
-  width: 638.25x;
-  /*851px;*/
-  height: 236.25px;
-  /*315px;*/
+  width: 709.2px;
+  /*851 // 638.25px;*/
+  height: 262.5px;
+  /*315 236.25px;*/
 }
 
 .phantom-logo {
