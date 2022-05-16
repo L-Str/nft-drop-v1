@@ -3,7 +3,7 @@
   background-color: rgb(20, 20, 20);
   overflow: scroll;
   text-align: center;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .container {
@@ -24,19 +24,26 @@
   padding: 30px;
 }
 
-.header-container {
-  /* background-color: #60c657; */
-}
-
 .header {
   margin: 0;
-  font-size: 50px;
+  font-size: 36px;
   font-weight: bold;
 }
 
 .sub-text {
   font-size: 25px;
 }
+
+.body-text {
+  font-size: 16px;
+  text-align: left;
+}
+
+.note-text {
+  font-size: 14px;
+  font-style: italic;
+}
+
 
 .gradient-text {
   background: -webkit-linear-gradient(left, #60c657 30%, #35aee2 60%);
@@ -75,20 +82,29 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
+  position: relative
+    /*absolute*/
+  ;
   width: 100%;
   bottom: 0;
   left: 0;
   /* padding-bottom: 45px; */
 }
 
-.twitter-logo {
-  width: 35px;
-  height: 35px;
+.banner-cosmic-boat {
+  width: 638.25x;
+  /*851px;*/
+  height: 236.25px;
+  /*315px;*/
+}
+
+.phantom-logo {
+  width: 25px;
+  height: 25px;
 }
 
 .footer-text {
-  font-size: 16px;
+  font-size: 12px;
   font-weight: bold;
   color: white;
 }
@@ -107,7 +123,7 @@
 }
 
 .connected-container button {
-  height: 50px;
+  height: 40px;
 }
 
 /* KeyFrames */
@@ -115,31 +131,39 @@
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 @-moz-keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
