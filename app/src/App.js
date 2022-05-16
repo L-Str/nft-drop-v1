@@ -70,7 +70,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header">Cosmic Boat Party</p>
+          <p className="header">DRAFT - Cosmic Boat Party</p>
           <p className="sub-text">Welcome in the NFT world !</p>
           {!walletAddress && renderNotConnectedContainer()}
           <p>
