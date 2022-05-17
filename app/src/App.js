@@ -86,7 +86,7 @@ const App = () => {
           <p className="body-text">
             What you say, what you hear, what you see define your emotions.
             Every combination of words and thoughts, sounds and visuals translate into a unique vibe.
-            This is why music producer Gusku and Selas Studio have partnered to develop a collection of NFTs to attach music to unique semantics: generated visuals, generated with artificial intelligence.
+            This is why music producer Gusku and Selas Studio have partnered to develop a collection of NFTs: unique pieces of arts, generated from semantics with AI.
           </p>
 
           <p className='body-text'>
